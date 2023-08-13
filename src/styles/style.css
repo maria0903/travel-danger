@@ -12,5 +12,23 @@ div {
 
 .title{
     font-size: 40px;
-    text-align: center;
+    width: 50%;
+    display: flex;
+    justify-content: end;
+}
+
+.language{
+    width: 120px;
+}
+
+header{
+    display: flex;
+}
+
+.language-wrap{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    width: 50%;
+
 }
