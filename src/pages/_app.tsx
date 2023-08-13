@@ -1,4 +1,5 @@
 import '../styles/globals.css';
+import '../styles/style.css';
 import React from 'react';
 import { ConfigProvider } from 'antd';
 import type { AppProps } from 'next/app';
